@@ -1,3 +1,5 @@
+[English](./en/README.md) | **中文**
+
 # Company Picker Skill / 公司选择助手
 
 ## 概述
@@ -82,7 +84,3 @@ zhangwenkang0
 ## 贡献
 
 欢迎提交 Issue 和 Pull Request！
-
----
-
-[English Version](./en/README.md)
